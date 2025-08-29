@@ -1,0 +1,10 @@
+P:\Projetos\Utilitarios\SimpleMediator\src\SimpleMediator\bin\Debug\netstandard2.1\SimpleMediator.deps.json
+P:\Projetos\Utilitarios\SimpleMediator\src\SimpleMediator\bin\Debug\netstandard2.1\SimpleMediator.dll
+P:\Projetos\Utilitarios\SimpleMediator\src\SimpleMediator\bin\Debug\netstandard2.1\SimpleMediator.pdb
+P:\Projetos\Utilitarios\SimpleMediator\src\SimpleMediator\obj\Debug\netstandard2.1\SimpleMediator.csproj.AssemblyReference.cache
+P:\Projetos\Utilitarios\SimpleMediator\src\SimpleMediator\obj\Debug\netstandard2.1\SimpleMediator.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projetos\Utilitarios\SimpleMediator\src\SimpleMediator\obj\Debug\netstandard2.1\SimpleMediator.AssemblyInfoInputs.cache
+P:\Projetos\Utilitarios\SimpleMediator\src\SimpleMediator\obj\Debug\netstandard2.1\SimpleMediator.AssemblyInfo.cs
+P:\Projetos\Utilitarios\SimpleMediator\src\SimpleMediator\obj\Debug\netstandard2.1\SimpleMediator.csproj.CoreCompileInputs.cache
+P:\Projetos\Utilitarios\SimpleMediator\src\SimpleMediator\obj\Debug\netstandard2.1\SimpleMediator.dll
+P:\Projetos\Utilitarios\SimpleMediator\src\SimpleMediator\obj\Debug\netstandard2.1\SimpleMediator.pdb

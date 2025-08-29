@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XfAtFJyrF9s=",
+  "success": true,
+  "projectFilePath": "P:\\Projetos\\Utilitarios\\SimpleMediator\\src\\SimpleMediator\\SimpleMediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Jeh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

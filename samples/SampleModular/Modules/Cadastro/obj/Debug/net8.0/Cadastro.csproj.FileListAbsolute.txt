@@ -1,0 +1,17 @@
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\bin\Debug\net8.0\Cadastro.deps.json
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\bin\Debug\net8.0\Cadastro.dll
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\bin\Debug\net8.0\Cadastro.pdb
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\bin\Debug\net8.0\SharedKernel.dll
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\bin\Debug\net8.0\SimpleMediator.dll
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\bin\Debug\net8.0\SharedKernel.pdb
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\bin\Debug\net8.0\SimpleMediator.pdb
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\obj\Debug\net8.0\Cadastro.csproj.AssemblyReference.cache
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\obj\Debug\net8.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\obj\Debug\net8.0\Cadastro.AssemblyInfoInputs.cache
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\obj\Debug\net8.0\Cadastro.AssemblyInfo.cs
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\obj\Debug\net8.0\Cadastro.csproj.CoreCompileInputs.cache
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\obj\Debug\net8.0\Cadastro.csproj.Up2Date
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\obj\Debug\net8.0\Cadastro.dll
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\obj\Debug\net8.0\refint\Cadastro.dll
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\obj\Debug\net8.0\Cadastro.pdb
+P:\Projetos\Utilitarios\SimpleMediator\samples\SampleModular\Modules\Cadastro\obj\Debug\net8.0\ref\Cadastro.dll
