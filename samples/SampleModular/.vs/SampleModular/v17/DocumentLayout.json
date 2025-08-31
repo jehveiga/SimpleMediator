@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "P:\\Projetos\\Utilitarios\\SimpleMediator\\samples\\SampleModular\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3193A763-D3CF-42AE-AABC-727A569532CC}|WebApi\\WebApi.csproj|p:\\projetos\\utilitarios\\simplemediator\\samples\\samplemodular\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3193A763-D3CF-42AE-AABC-727A569532CC}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68FA0BA-F0A4-F704-5156-C748B031AB9D}|SharedKernel\\SharedKernel.csproj|p:\\projetos\\utilitarios\\simplemediator\\samples\\samplemodular\\sharedkernel\\events\\clientecadastradoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68FA0BA-F0A4-F704-5156-C748B031AB9D}|SharedKernel\\SharedKernel.csproj|solutionrelative:sharedkernel\\events\\clientecadastradoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68FA0BA-F0A4-F704-5156-C748B031AB9D}|SharedKernel\\SharedKernel.csproj|p:\\projetos\\utilitarios\\simplemediator\\samples\\samplemodular\\sharedkernel\\events\\clienteexcluidoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68FA0BA-F0A4-F704-5156-C748B031AB9D}|SharedKernel\\SharedKernel.csproj|solutionrelative:sharedkernel\\events\\clienteexcluidoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70B88F6-C4B9-466F-85FC-084EFAEA9027}|Modules\\Cadastro\\Cadastro.csproj|p:\\projetos\\utilitarios\\simplemediator\\samples\\samplemodular\\modules\\cadastro\\handlers\\clientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70B88F6-C4B9-466F-85FC-084EFAEA9027}|Modules\\Cadastro\\Cadastro.csproj|solutionrelative:modules\\cadastro\\handlers\\clientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +35,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Projetos\\Utilitarios\\SimpleMediator\\samples\\SampleModular\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "P:\\Projetos\\Utilitarios\\SimpleMediator\\samples\\SampleModular\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T13:59:38.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteExcluidoEvent.cs",
+              "DocumentMoniker": "P:\\Projetos\\Utilitarios\\SimpleMediator\\samples\\SampleModular\\SharedKernel\\Events\\ClienteExcluidoEvent.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Events\\ClienteExcluidoEvent.cs",
+              "ToolTip": "P:\\Projetos\\Utilitarios\\SimpleMediator\\samples\\SampleModular\\SharedKernel\\Events\\ClienteExcluidoEvent.cs",
+              "RelativeToolTip": "SharedKernel\\Events\\ClienteExcluidoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T13:58:51.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteCadastradoEvent.cs",
+              "DocumentMoniker": "P:\\Projetos\\Utilitarios\\SimpleMediator\\samples\\SampleModular\\SharedKernel\\Events\\ClienteCadastradoEvent.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Events\\ClienteCadastradoEvent.cs",
+              "ToolTip": "P:\\Projetos\\Utilitarios\\SimpleMediator\\samples\\SampleModular\\SharedKernel\\Events\\ClienteCadastradoEvent.cs",
+              "RelativeToolTip": "SharedKernel\\Events\\ClienteCadastradoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T13:58:28.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteHandler.cs",
+              "DocumentMoniker": "P:\\Projetos\\Utilitarios\\SimpleMediator\\samples\\SampleModular\\Modules\\Cadastro\\Handlers\\ClienteHandler.cs",
+              "RelativeDocumentMoniker": "Modules\\Cadastro\\Handlers\\ClienteHandler.cs",
+              "ToolTip": "P:\\Projetos\\Utilitarios\\SimpleMediator\\samples\\SampleModular\\Modules\\Cadastro\\Handlers\\ClienteHandler.cs",
+              "RelativeToolTip": "Modules\\Cadastro\\Handlers\\ClienteHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T13:53:44.52Z",
+              "EditorCaption": ""
             }
           ]
         }

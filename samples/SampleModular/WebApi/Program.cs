@@ -17,7 +17,7 @@ builder.Services.AddScoped<IClienteService, ClienteService>();
 // Mais performatico
 //builder.Services.AddSimpleMediator("Cadastro", "Crm", "Financeiro", "SharedKernel");
 
-// Mais custoso
+// Mais custoso - Más registra tudo automaticamente (Preferivel)
 builder.Services.AddSimpleMediator();
 //builder.Services.AddSimpleMediator(AppDomain.CurrentDomain.GetAssemblies());
 
